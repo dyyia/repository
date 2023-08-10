@@ -4,24 +4,24 @@
 
 1. 公司先修改所有和薪酬相关联的一系列的制度。制度上说明职位性质分为“在岗”和“不在岗”，公司在发送《项目变更通知单》后，员工即属于“不在岗”状态，“不在岗”状态的员工扣除岗位工资和绩效工资。并以此证明公司按制度行事，并未恶意降薪。
 
-![5ba411edf53494fa0f15dad2c0f0bab7.png](C:\Users\xxzenge\Desktop\zd\md\git\repository\img\职位调任管理制度.PNG)
+![5ba411edf53494fa0f15dad2c0f0bab7.png](img\职位调任管理制度.PNG)
 
-![5ba411edf53494fa0f15dad2c0f0bab7.png](C:\Users\xxzenge\Desktop\zd\md\git\repository\img\薪酬管理制度.PNG)
+![5ba411edf53494fa0f15dad2c0f0bab7.png](img\薪酬管理制度.PNG)
 
-制度的审批意见表，有工会印章，证明已经通过工会同意。![](C:\Users\xxzenge\Desktop\zd\md\git\repository\img\2023-08-09-15-07-22-image.png)
+制度的审批意见表，有工会印章，证明已经通过工会同意。![](img\2023-08-09-15-07-22-image.png)
 
 2. 公司提供“征询意见”的邮件截图。证明制度有公示，并向全体员工征询意见。
 
-![](C:\Users\xxzenge\Desktop\zd\md\git\repository\img\2023-08-09-14-44-57-image.png)
+![](img\2023-08-09-14-44-57-image.png)
 
 4. 公司提供“制度发布通知”的邮件截图。声称已征得大多数员工的同意（未回复的员工均被默认为同意），证明公司发布新制定的规章制度走了民主流程。
 
-![](C:\Users\xxzenge\Desktop\zd\md\git\repository\img\2023-08-09-14-47-23-image.png)
+![](img\2023-08-09-14-47-23-image.png)
 
 最后仲裁员会明显偏向公司，混淆概念。将公司定义的不在岗直接理解为员工不在工作岗位。
 
-![](C:\Users\xxzenge\Desktop\zd\md\git\repository\img\2023-08-09-14-15-54-image.png)
+![](img\2023-08-09-14-15-54-image.png)
 
 最终员工败诉，诉求全部被驳回
 
-![](C:\Users\xxzenge\Desktop\zd\md\git\repository\img\2023-08-09-14-16-05-image.png)
+![](img\2023-08-09-14-16-05-image.png)
